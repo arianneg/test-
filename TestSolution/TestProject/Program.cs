@@ -10,6 +10,7 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
+            int a = 7;
             Console.WriteLine("Hello World");
         }
     }
