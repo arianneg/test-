@@ -13,5 +13,9 @@ namespace TestProject
             int a = 7;
             Console.WriteLine("Hello World");
         }
+        static void f()
+        {
+
+        }
     }
 }
